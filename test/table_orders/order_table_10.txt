@@ -1,0 +1,4 @@
+10 1 54 23:11:05 1
+Coke 1 8.000000 NoRemark
+Soda 1 18.000000 NoRemark
+Water 1 28.000000 NoRemark
