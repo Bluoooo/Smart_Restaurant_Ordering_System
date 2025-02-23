@@ -2,7 +2,7 @@
 
 A smart restaurant system for waiters and chefs based on C++ and QT5.
 
-The developers' names are: *Ziqi ZHAO, Zigen XU, Siheng XIANG, Chuzhi Xu, Qianqi Wen.
+The developers' names are: *Ziqi ZHAO, Zigen XU, Siheng XIANG, Chuzhi Xu, Qianqi Wen. Everyone pays lots of efforts in this project.
 
 In this project, our group has developed a smart restaurant ordering system(SROS) designed to enhance the efficiency and flexibility of restaurant operations. The main demand group of our system is the restaurant sales staff, and the system features a server operations interface as well as an intuitive interface with buttons for waiters, chefs and boss to interact with. Key functionalities include table selection, editing the menu, ordering food, adding additional dishes mid-meal, and generating detailed bills with corresponding payments. This system aims to address common inefficiencies in existing dining systems and cater to both customer and restaurant staff needs.
 
